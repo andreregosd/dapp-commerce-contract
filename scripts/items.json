@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "name": "Camera",
+      "category": "electronics",
+      "image": "",
+      "cost": "2",
+      "stock": 10
+    },
+    {
+      "name": "Phone",
+      "category": "electronics",
+      "image": "",
+      "cost": "3",
+      "stock": 10
+    },
+    {
+      "name": "TV",
+      "category": "electronics",
+      "image": "",
+      "cost": "3",
+      "stock": 10
+    },
+    {
+      "name": "Drone",
+      "category": "electronics",
+      "image": "",
+      "cost": "2",
+      "stock": 10
+    },
+    {
+      "name": "Tshirt",
+      "category": "clothes",
+      "image": "",
+      "cost": "0.1",
+      "stock": 10
+    },
+    {
+      "name": "Shoes",
+      "category": "clothes",
+      "image": "",
+      "cost": "0.2",
+      "stock": 10
+    },
+    {
+      "name": "Hat",
+      "category": "clothes",
+      "image": "",
+      "cost": "0.02",
+      "stock": 10
+    },
+    {
+      "name": "Final Fantasy XVI",
+      "category": "videogames",
+      "image": "",
+      "cost": "0.1",
+      "stock": 10
+    }
+  ]
+}
